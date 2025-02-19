@@ -67,19 +67,6 @@ A modern, performant RSVP system built with Next.js 15, featuring real-time upda
    - Response analytics
    - Export capabilities
 
-### Technical Architecture
-```
-src/
-├── app/                 # Next.js 13 app directory
-│   ├── api/            # API routes
-│   ├── dashboard/      # Protected routes
-│   └── events/         # Public event pages
-├── components/         # Reusable UI components
-├── lib/                # Utility functions
-├── prisma/            # Database schema
-└── types/             # TypeScript definitions
-```
-
 ## 🌟 Unique Selling Points
 
 1. **Real-time Synchronization**
